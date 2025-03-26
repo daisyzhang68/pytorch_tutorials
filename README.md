@@ -1,3 +1,5 @@
+# The combined Video is https://www.youtube.com/watch?v=E0bwEAWmVEM&t=4s&ab_channel=freeCodeCamp.org 
+
 # 🌟 PyTorch Tutorials
 
 ## Overview 📚
